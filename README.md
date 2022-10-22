@@ -14,5 +14,7 @@ This program will give you a report about the coordinate of a hypocentre (latitu
 References:
 
 Lienert, B., E. Berg and N. Frazer. 1986. HYPOCENTER: An Earthquake Location Method Using Centered, Scaled and Adaptively Damped Least Squares. Bulletin of the Seismological Society of America. 76: 771 – 783.
+
 Stein, S. and M. Wysession. 2003. An Introduction to Seismology, Earthquake, and Earth Structure. Blackwell Publishing. Massachusestts.
+
 Transtrum, M. and J. Sethna. 2012. Improvement to the Levenberg-Marquartdt Algorithm for Nonlinear Least-Squares Minimization.
